@@ -31,3 +31,112 @@
     height:33vh;
     background-color:blue;
 }
+
+.html-style{
+    background-color:green;
+    display:inline;
+    width:15%;
+    height:10vh;
+    text-align: center;
+    padding: 7px;
+    border-radius: 5px;
+    margin:5px;
+}
+
+.css-style{
+    background-color: blue;
+    width: 15%;
+    height:10vh;
+    text-align:center;
+    display:inline;
+    padding:7px;
+    border-radius:5px ;
+    margin:5px;
+}
+
+.java-style{
+    background-color: purple;
+    width:15%;
+    height:10vh;
+    text-align: center;
+    display: inline;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.design-style{
+    background-color: palevioletred;
+    width: 15%;
+    height:10vh;
+    text-align: center;
+    display:inline;
+    padding: 7px;
+    border-radius: 5px;
+    margin:5px;
+}
+
+.layout-style{
+    background-color: orange;
+    width: 15%;
+    height:10vh;
+    text-align: center;
+    display: inline;
+    padding:7px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.nav-bar{
+    background-color: black;
+    border-radius: 11px;
+    padding: 17px;
+    width:25vw;
+    margin:7px;
+}
+
+.home-button{
+    color:white;
+    background-color: green;
+    width:20px;
+    height:60%;
+    text-align: center;
+    display: inline;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.about-button{
+    color:white;
+    width: 20px;
+    height:60%;
+    text-align: center;
+    display:inline;
+    padding: 7px;
+    border-radius:5px;
+    margin: 10px;
+}
+
+.projects-button{
+    color: white;
+    width:20px;
+    height:60%;
+    text-align: center;
+    display:inline;
+    padding:7px;
+    border-radius:5px;
+    margin: 10px;
+}
+
+.contact-button{
+    color:white;
+    width:20px;
+    height:60%;
+    text-align: center;
+    display:inline;
+    padding: 7px;
+    border-radius:5px;
+    margin:10px;
+}
+
