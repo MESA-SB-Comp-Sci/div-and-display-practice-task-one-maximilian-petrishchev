@@ -140,3 +140,79 @@
     margin:10px;
 }
 
+.challenge-4-div{
+    display:inline-block;
+}
+
+.card-1-style{
+    background-color:lightgreen;
+    color:green;
+    border-radius: 7px;
+    padding: 30px;
+    border: 3px solid green;
+    width: 22vw;
+    height: 15vh;
+    text-align: center;
+    margin: 3px;
+}
+
+.card-2-style{
+    background-color: lightblue;
+    color: blue;
+    border-radius: 7px;
+    padding: 30px;
+    border: 3px solid blue;
+    width: 22vw;
+    height: 15vh;
+    text-align: center;
+    margin: 3px;
+}
+
+.card-3-style{
+    background-color: pink;
+    color: palevioletred;
+    border-radius: 7px;
+    padding: 30px;
+    border: 3px solid palevioletred;
+    width: 22vw;
+    height: 15vh;
+    text-align: center;
+    margin: 3px;
+}
+
+.card-4-style{
+    background-color: rgb(240, 206, 193);
+    color:orange;
+    border-radius: 7px;
+    padding: 30px;
+    border: 3px solid orange;
+    width:22vw;
+    height:15vh;
+    text-align:center;
+    margin:3px;
+}
+
+.card-5-style{
+    background-color: rgb(180, 135, 223);
+    color:blueviolet;
+    border-radius: 7px;
+    padding:30px;
+    border:3px solid blueviolet;
+    width:22vw;
+    height:15vh;
+    text-align: center;
+    margin: 3px;
+}
+
+.card-6-style{
+    background-color: rgb(224, 224, 170);
+    color: rgba(165, 42, 42, 0.37);
+    border-radius: 7px;
+    padding: 30px;
+    border: 3px solid rgb(85, 85, 19);
+    width:22vw;
+    height:15vh;
+    text-align: center;
+    margin: 3px;
+}
+
